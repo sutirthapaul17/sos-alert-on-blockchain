@@ -1,0 +1,3 @@
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/sutirthapaul17/sos-blockchain.git
